@@ -2,7 +2,6 @@ import React from 'react';
 import './Footer.css';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import LanguageIcon from '@material-ui/icons/Language';
 
 const Footer = () => {
     return (
