@@ -14,9 +14,6 @@ const Footer = () => {
                 <a href="https://www.linkedin.com/in/anomic/">
                     <LinkedInIcon style={{ color: "#d5d7e0" }} />
                 </a>
-                <a href="https://anom.netlify.com">
-                    <LanguageIcon style={{ color: "#d5d7e0" }} />
-                </a>
             </div>
         </div>
     )

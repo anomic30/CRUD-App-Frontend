@@ -46,7 +46,6 @@ const useStyles = makeStyles({
       fontSize: '18px'
     }
   }
-
 });
 
 export default function ShowUsers() {
@@ -64,7 +63,7 @@ export default function ShowUsers() {
   };
 
   return (
-    <div className="conatainer">
+    <div>
       <div className="back" />
       <Table stickyHeader aria-label="sticky table" className={classes.table}>
         <TableHead>
