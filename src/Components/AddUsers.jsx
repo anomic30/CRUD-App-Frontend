@@ -6,6 +6,7 @@ import { useHistory } from 'react-router-dom';
 require('dotenv').config();
 const DB = process.env.REACT_APP_PATH_URL;
 
+//Styling
 const ColorButton = withStyles((theme) => ({
     root: {
       color: theme.palette.getContrastText(indigo['A700']),
